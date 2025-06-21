@@ -10,3 +10,4 @@ PyYAML
 pytest>=3.6
 pytest-cov
 Sphinx
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
